@@ -13,7 +13,7 @@ function validateParams () {
 function create_keystore() {
     validateParams $*
     site_name=kylin-$1.sensity.com
-    ou="VERIZON"
+    ou="YALKOVE"
     country="US"
     state="CA"
     echo "Kylin endpoint received ["${site_name}+"]"
